@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/valdezelias231-beep/AireSmart-Firmador-Releases/releases/download/v1.1.8/AireSmart-Firmador-v1.1.8.apk",
-  "sha256": "fab1749b9a2438bfc07bc0a0587edcb7acd5890eb1261dd75b77a1f25306cc3c",
-  "notes": "Actualización oficial de AireSmart Firmador 1.1.8."
+  "versionCode": 16,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/valdezelias231-beep/AireSmart-Firmador-Releases/releases/download/v1.1.9/AireSmart-Firmador-v1.1.9.apk",
+  "sha256": "639df162408a528da468fe88e8d44edcf72131a690c05e82e9e24623c4157bf6",
+  "notes": "Actualización oficial de AireSmart Firmador 1.1.9."
 }
